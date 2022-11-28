@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\learningTC-web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\learningTC-web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.learningTC-web.props",
+      "PackagePath": "build\\learningTC-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.learningTC-web.props",
+      "PackagePath": "buildMultiTargeting\\learningTC-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.learningTC-web.props",
+      "PackagePath": "buildTransitive\\learningTC-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.learningTC-web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

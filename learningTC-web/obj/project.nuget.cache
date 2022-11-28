@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14Gjfzmmn1nh2tyrKTkud5ouCKnTlFArUYdAhnYz5WXJ3v4ilJJWHyimMFqfLg+oJ7aN0LGnb+whWL9P8U9PLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\personal\\learning\\Teamcity\\learningTC-web\\learningTC-web\\learningTC-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio.Ochavo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
